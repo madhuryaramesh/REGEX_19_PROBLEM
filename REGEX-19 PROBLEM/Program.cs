@@ -6,11 +6,11 @@ namespace REGEX_19_PROBLEM
     {
         static void Main(string[] args)
         {
-            //UC8
-            UC8Password4 fName = new UC8Password4(); ;
-            Console.WriteLine("ENTER YOUR PASSWORD 3 HERE : ");
+            //UC9
+            UC9SampleEmail fName = new UC9SampleEmail(); ;
+            Console.WriteLine("ENTER YOUR SAMPLE EMAIL HERE : ");
             var check = Console.ReadLine();
-            fName.Password4(check);
+            fName.SampleEmail(check);
   
         }
     }
