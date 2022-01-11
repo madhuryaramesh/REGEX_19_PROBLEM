@@ -1,0 +1,14 @@
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.csproj.AssemblyReference.cache
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.AssemblyInfoInputs.cache
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.AssemblyInfo.cs
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.csproj.CoreCompileInputs.cache
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.exe
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.deps.json
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.runtimeconfig.json
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.runtimeconfig.dev.json
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.dll
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\bin\Debug\netcoreapp3.1\REGEX-19 PROBLEM.pdb
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.dll
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.pdb
+E:\bridgelabz\.net\092- practice problem\REGEX-19 PROBLEM\REGEX-19 PROBLEM\obj\Debug\netcoreapp3.1\REGEX-19 PROBLEM.genruntimeconfig.cache

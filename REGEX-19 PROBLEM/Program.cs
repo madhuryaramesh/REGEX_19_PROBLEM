@@ -6,7 +6,12 @@ namespace REGEX_19_PROBLEM
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("REGEX ASSIGNMENT");
+            //UC1
+            UC1Name fName = new UC1Name(); ;
+            Console.WriteLine("ENTER YOUR FIRST NAME HERE : ");
+            var check = Console.ReadLine();
+            fName.FName(check);
+           // Console.WriteLine(check);
         }
     }
 }
