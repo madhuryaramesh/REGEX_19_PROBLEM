@@ -5,12 +5,12 @@ using System.Text.RegularExpressions;
 
 namespace REGEX_19_PROBLEM
 {
-    class UC3Email
+    class UC4Phone
     {
-        public static string EMailRegex = "^(abc).?[a-z]{3,}[@](bl).?(co).?[a-z]{2,}$";
-        public void EmailId(string emailid)
+        public static string MobileNoRegex = "^[0-9]{1,3}[ ][6789][0-9]{9}$";
+        public void PhoneNum(string phone)
         {
-            bool check = Regex.IsMatch(emailid, EMailRegex);
+            bool check = Regex.IsMatch(phone,MobileNoRegex);
             if (check == true)
             {
                 Console.WriteLine("VALID");
