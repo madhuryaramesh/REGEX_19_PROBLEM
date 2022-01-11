@@ -5,12 +5,12 @@ using System.Text.RegularExpressions;
 
 namespace REGEX_19_PROBLEM
 {
-    class UC4Phone
+    class UC5Password
     {
-        public static string MobileNoRegex = "^[0-9]{1,3}[ ][6789][0-9]{9}$";
-        public void PhoneNum(string phone)
+        public static string PasswordRegex = "^[A-Z a-z]{8,}$";
+        public void Password(string password)
         {
-            bool check = Regex.IsMatch(phone,MobileNoRegex);
+            bool check = Regex.IsMatch(password, PasswordRegex);
             if (check == true)
             {
                 Console.WriteLine("VALID");
