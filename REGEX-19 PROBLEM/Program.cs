@@ -6,16 +6,13 @@ namespace REGEX_19_PROBLEM
     {
         static void Main(string[] args)
         {
-            //UC2
-            UC2LastName fName = new UC2LastName(); ;
-            Console.WriteLine("ENTER YOUR FIRST NAME HERE : ");
+            //UC3
+            UC3Email fName = new UC3Email(); ;
+            Console.WriteLine("ENTER YOUR EMAIL ID HERE : ");
             var check = Console.ReadLine();
-            fName.FName(check);
+            fName.EmailId(check);
             
-            Console.WriteLine("ENTER YOUR LAST NAME HERE : ");
-            var check2 = Console.ReadLine();
-            fName.LName(check);
-            // Console.WriteLine(check);
+            
         }
     }
 }
