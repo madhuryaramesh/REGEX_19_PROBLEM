@@ -7,10 +7,10 @@ namespace REGEX_19_PROBLEM
         static void Main(string[] args)
         {
             //UC5
-            UC5Password fName = new UC5Password(); ;
-            Console.WriteLine("ENTER YOUR PASSWORD HERE : ");
+            UC5Password2 fName = new UC5Password2(); ;
+            Console.WriteLine("ENTER YOUR PASSWORD 2 HERE : ");
             var check = Console.ReadLine();
-            fName.Password(check);
+            fName.Password2(check);
   
         }
     }
