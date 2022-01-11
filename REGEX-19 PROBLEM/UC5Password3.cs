@@ -5,12 +5,12 @@ using System.Text.RegularExpressions;
 
 namespace REGEX_19_PROBLEM
 {
-    class UC5Password2
+    class UC5Password3
     {
-        public static string Password2Regex = "^[A-Z]{1}[A-Z a-z]{7,}$";
-        public void Password2(string password2)
+        public static string Password3Regex = "^[A-Z]{1}[A-Z a-z]{7,}[0-9]{1,}$";
+        public void Password3(string password3)
         {
-            bool check = Regex.IsMatch(password2, Password2Regex);
+            bool check = Regex.IsMatch(password3, Password3Regex);
             if (check == true)
             {
                 Console.WriteLine("VALID");
